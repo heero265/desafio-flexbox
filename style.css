@@ -15,6 +15,7 @@ p {
 
 .inicio {
     margin: auto;
+    text-align: center;
     font-family: Arial;
     font-size: 15px;
     justify-self: center;
@@ -47,7 +48,7 @@ p {
 }
 
 #campo {
-    width: 100%;
+    width: 340px;
     font-size: 10px;
     border-style: none;
     border-radius: 8px;
@@ -99,6 +100,6 @@ p {
     flex-direction: row; */
     margin-top: 0%;
     margin-bottom: 0%;
-    float: right;
-    
+    margin-left: 10%;
+    /* float: right; */    
 }
