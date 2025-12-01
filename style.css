@@ -1,0 +1,104 @@
+/* 
+} */
+
+
+p {
+    font-family: Arial;
+}
+
+/* main {
+    margin: auto;
+    flex-direction: row;
+
+} */
+
+
+.inicio {
+    margin: auto;
+    font-family: Arial;
+    font-size: 15px;
+    justify-self: center;
+    /* padding-left: 5px; */
+    
+}
+
+
+
+.container {
+    /* margin: auto; */
+    margin-top: 15rem;
+    margin-left: 25rem;  /*50% da tela*/
+    margin-right: 50rem;   /*50% da tela*/
+    margin-bottom: 25rem;
+    /* flex-direction: row; */
+    /*display: flex;  */
+    /* border: 1px solid black; */
+    /* justify-content: center;*/
+    /* align-items: center;  */
+     
+}
+
+
+
+.opcoes {
+    padding: 5% 0 10px 0;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#campo {
+    width: 100%;
+    font-size: 10px;
+    border-style: none;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: rgb(224, 224, 224);
+
+}
+
+.lembrar {
+    margin-top: 15px;
+    font-family: Arial;
+    font-size: 12px;
+    align-items: baseline;
+
+       
+}
+
+/* .checkbox {
+    background-color: rgb(224, 224, 224);
+
+} */
+
+#esqueceu {
+    text-align: right;
+
+}
+
+.button {
+    margin: 15px 0px 20px 0px;
+    padding: 8px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    width: 100%;
+    
+     
+
+}
+
+.conta {
+    font-size: 12px;
+    text-align: center;
+    padding: 25px;
+}
+
+.imagem{
+    /* display: flex;
+    flex-direction: row; */
+    margin-top: 0%;
+    margin-bottom: 0%;
+    float: right;
+    
+}
