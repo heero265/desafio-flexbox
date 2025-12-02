@@ -58,15 +58,18 @@ p {
 }
 
 .lembrar {
+    
     margin-top: 15px;
     font-family: Arial;
     font-size: 12px;
     align-items: baseline;
+    display: flex;
+    justify-content: space-between;
 
        
 }
 
-/* .checkbox {
+/* #checkbox {
     background-color: rgb(224, 224, 224);
 
 } */
